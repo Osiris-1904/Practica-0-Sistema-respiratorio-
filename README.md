@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Información del estudiante
+## Información de la estudiante
 Osiris Jaylin Chavez Hernandez \[23210697]; l23210697@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
