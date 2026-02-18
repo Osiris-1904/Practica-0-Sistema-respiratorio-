@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica Sistema respiratorio Simplificado '
+message: 'Modelado de sistemas fisiologicos / Ingenieria Biomedica '
+type: software
+authors:
+  - given-names: 'Osiris '
+    family-names: Chavez
+    email: l23210697@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Osiris-1904/Practica-0-Sistema-respiratorio-
+    description: Repositorio GitHub
+repository-code: >-
+  https://github.com/Osiris-1904/Practica-0-Sistema-respiratorio-
+keywords:
+  - 'Sistema respiratorio '
+  - Circuito RLC
+  - Controlador PID
+  - 'Modelo matemático '
+  - 'Simulaciones numéricas '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
